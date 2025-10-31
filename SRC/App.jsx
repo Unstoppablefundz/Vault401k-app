@@ -10,7 +10,7 @@ export default function App() {
         Hi, {name}!
       </h2>
       <h1 style={{ margin: '0 0 32px', color: '#1a1a1a', fontSize: '28px', fontWeight: 'bold' }}>
-        Growyo 401(k) Easy
+        Vault 401(k)
       </h1>
 
       <div style={{
@@ -21,10 +21,10 @@ export default function App() {
         textAlign: 'center'
       }}>
         <p style={{ margin: '0 0 20px', color: '#555', fontSize: '16px' }}>
-          Your simple, transparent 401(k) companion.
+          Your secure, simple 401(k) companion.
         </p>
         <button style={{
-          background: '#229ED9',
+          background: '#1a1a1a',
           color: 'white',
           border: 'none',
           padding: '14px 28px',
@@ -39,4 +39,4 @@ export default function App() {
       </div>
     </div>
   );
-}
+      }
